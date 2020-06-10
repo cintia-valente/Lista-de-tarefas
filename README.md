@@ -1,5 +1,5 @@
 # Descrição
- Aplicação web de uma lista de tarefas desenvolvida em Angular
+ Aplicação web de uma lista de tarefas desenvolvida em <b>Angular</b>
  
 # Captura de Telas
  
