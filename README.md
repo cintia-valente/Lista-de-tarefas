@@ -10,6 +10,6 @@
 
 <ul>
   <li>Em um terminal execute o comando <b>ng serve</b></li>
-  <li>Abra o navegador (nesta aplicação foi utilizado o navegador Google Chrome)</li>
+  <li>Abra o navegador Google Chrome</li>
   <li>Acesse a porta localhost:4200</li>
 <ul>
