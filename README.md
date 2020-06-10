@@ -9,7 +9,7 @@
 # Execução
 
 <ul>
-  <li>Em um terminal execute o comando <h1>ng serve</h1></li>
+  <li>Execute o comando # ng serve em um terminal</li>
   <li>Abra o navegador (nesta aplicação foi utilizado o navegador Google Chrome)</li>
   <li>Acesse a porta localhost:4200</li>
 <ul>
