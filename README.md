@@ -12,6 +12,6 @@
 
 <ul>
   <li>Em um terminal execute o comando <b>ng serve</b>.</li>
-  <li>Abra o navegador.</li>
+  <li>Abra um navegador.</li>
   <li>Acesse a porta <b>localhost:4200</b>.</li>
 <ul>
